@@ -1,0 +1,4 @@
+README -rw-rw-r-- 6 6 4 
+docs rwxrwxr-x    7 7 5
+logs rwxrwx-x     7 7 5
+src rwxrwx-x      7 7 5
